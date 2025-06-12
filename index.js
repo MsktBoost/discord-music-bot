@@ -1,1 +1,3 @@
-<OMITTED FOR BREVITY>
+require('dotenv').config();
+const { Client, GatewayIntentBits, Collection } = require('discord.js');
+// restante do código JS...
